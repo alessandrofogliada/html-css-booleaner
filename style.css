@@ -6,6 +6,7 @@ body{
 /* style header */
 header {
     background-color: #4ea0ff ;
+    background-image: ;
     width: auto;
     height: 125px;
 }
@@ -13,10 +14,6 @@ header {
 .thebooleaner {
     width: 150px;
     position: fixed;
-}
-
-.sfondo {
-
 }
 
 /* style main */
