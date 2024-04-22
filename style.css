@@ -26,6 +26,25 @@ span{
     color: aqua;
 }
 
+thead{
+    background-color: rgb(63, 181, 232);
+    color: white;
+}
+
+tbody{
+    background-color: rgb(177, 229, 249);
+    color: black;
+}
+
+tfoot{
+    background-color: rgb(177, 229, 249);
+    color: black;
+}
+
+.tbodyvariante{
+    background-color: white;
+    color: black;
+}
 /* style footer */
 .primafoto {
     margin: 0px;
