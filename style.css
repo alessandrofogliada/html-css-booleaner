@@ -1,23 +1,27 @@
 body{
-    height: 150px;
-    padding: 0%;
-    border:0% ;
-    
+   width: 100%;
+   height: auto;
 }
 
 /* style header */
 header {
     background-color: #4ea0ff ;
+    width: auto;
     height: 125px;
 }
+
 .thebooleaner {
     width: 150px;
+    position: fixed;
+}
+
+.sfondo {
+
 }
 
 /* style main */
 .scrittagrigia{
     color: grey;
-
 }
 
 span{
